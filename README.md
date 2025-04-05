@@ -3,6 +3,11 @@
 
 A fun and interactive word association game where players connect words to form meaningful chains. Perfect for both single and multiplayer gameplay!
 
+https://bhanu9prakash.github.io/chain-reaction/
+
+![image](https://github.com/user-attachments/assets/9766fe5e-21c5-4ccf-bc44-17078704a5cc)
+
+
 ## Features
 
 - Single player and two-player modes
